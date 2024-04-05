@@ -1,0 +1,278 @@
+{
+  "words": [
+    {
+      "word": "Apple",
+      "forbiddenWords": ["Fruit", "Tech", "iPhone", "Orchard", "Juice"]
+    },
+    {
+      "word": "Lion",
+      "forbiddenWords": ["King", "Savannah", "Roar", "Zoo", "Mufasa"]
+    },
+    {
+      "word": "Hollywood",
+      "forbiddenWords": ["Movies", "Celebrities", "Boulevard", "Entertainment", "California"]
+    },
+    {
+      "word": "Book",
+      "forbiddenWords": ["Read", "Library", "Novel", "Author", "Pages"]
+    },
+    {
+      "word": "Dog",
+      "forbiddenWords": ["Bark", "Pet", "Canine", "Puppy", "Leash"]
+    },
+    {
+      "word": "Matrix",
+      "forbiddenWords": ["Keanu Reeves", "Virtual Reality", "Red Pill", "Sci-Fi", "Neo"]
+    },
+    {
+      "word": "Elephant",
+      "forbiddenWords": ["Mammal", "Safari", "Trunk", "African", "Big Ears"]
+    },
+    {
+      "word": "Guitar",
+      "forbiddenWords": ["Music", "Strings", "Instrument", "Acoustic", "Amplifier"]
+    },
+    {
+      "word": "Space",
+      "forbiddenWords": ["Stars", "Astronomy", "Astronaut", "Galaxy", "Universe"]
+    },
+    {
+      "word": "Mona Lisa",
+      "forbiddenWords": ["Leonardo da Vinci", "Smile", "Art", "Painting", "Louvre"]
+    },
+    {
+      "word": "Penguin",
+      "forbiddenWords": ["Bird", "Antarctica", "Waddle", "Ice", "Tuxedo"]
+    },
+    {
+      "word": "Batman",
+      "forbiddenWords": ["Bruce Wayne", "Gotham", "Dark Knight", "Comics", "Joker"]
+    },
+    {
+      "word": "Coffee",
+      "forbiddenWords": ["Caffeine", "Mug", "Espresso", "Brew", "Starbucks"]
+    },
+    {
+      "word": "Eiffel Tower",
+      "forbiddenWords": ["Paris", "France", "Landmark", "Tall", "Iron"]
+    },
+    {
+      "word": "Soccer",
+      "forbiddenWords": ["Football", "Goal", "Team", "Ball", "World Cup"]
+    },
+    {
+      "word": "Mars",
+      "forbiddenWords": ["Red Planet", "NASA", "Astronomy", "Rover", "Space"]
+    },
+    {
+      "word": "Leonardo DiCaprio",
+      "forbiddenWords": ["Actor", "Titanic", "Oscar", "Inception", "Hollywood"]
+    },
+    {
+      "word": "Dolphin",
+      "forbiddenWords": ["Marine", "Mammal", "Ocean", "Intelligent", "Swim"]
+    },
+    {
+      "word": "Harry Potter",
+      "forbiddenWords": ["Wizard", "Hogwarts", "Magic", "Book", "Voldemort"]
+    },
+    {
+      "word": "Forest",
+      "forbiddenWords": ["Trees", "Nature", "Woods", "Hike", "Wildlife"]
+    },
+    {
+      "word": "Chocolate",
+      "forbiddenWords": ["Sweet", "Cocoa", "Treat", "Dessert", "Candy"]
+    },
+    {
+      "word": "Michael Jackson",
+      "forbiddenWords": ["Singer", "Thriller", "Moonwalk", "Pop", "Legend"]
+    },
+    {
+      "word": "Television",
+      "forbiddenWords": ["TV", "Screen", "Show", "Remote", "Channel"]
+    },
+    {
+      "word": "Tiger",
+      "forbiddenWords": ["Wildcat", "Stripes", "Safari", "Roar", "Endangered"]
+    },
+    {
+      "word": "Piano",
+      "forbiddenWords": ["Music", "Keys", "Instrument", "Concert", "Composer"]
+    },
+    {
+      "word": "New York",
+      "forbiddenWords": ["City", "Empire State Building", "Big Apple", "Manhattan", "Times Square"]
+    },
+    {
+      "word": "Shark",
+      "forbiddenWords": ["Ocean", "Predator", "Fins", "Jaws", "Beach"]
+    },
+    {
+      "word": "Marilyn Monroe",
+      "forbiddenWords": ["Actress", "Blonde", "Icon", "Hollywood", "Glamour"]
+    },
+    {
+      "word": "Candle",
+      "forbiddenWords": ["Flame", "Wax", "Light", "Scent", "Holder"]
+    },
+    {
+      "word": "Spider-Man",
+      "forbiddenWords": ["Peter Parker", "Marvel", "Superhero", "Web", "Villain"]
+    },
+    {
+      "word": "Pyramid",
+      "forbiddenWords": ["Egypt", "Ancient", "Desert", "Pharaoh", "Archaeology"]
+    },
+    {
+      "word": "Dinosaur",
+      "forbiddenWords": ["Prehistoric", "Extinct", "Jurassic", "Fossil", "T-Rex"]
+    },
+    {
+      "word": "Picasso",
+      "forbiddenWords": ["Artist", "Painting", "Cubism", "Spanish", "Masterpiece"]
+    },
+    {
+      "word": "Motorcycle",
+      "forbiddenWords": ["Bike", "Ride", "Two-Wheeler", "Speed", "Helmet"]
+    },
+    {
+      "word": "Banana",
+      "forbiddenWords": ["Fruit", "Yellow", "Peel", "Monkey", "Healthy"]
+    },
+    {
+      "word": "Einstein",
+      "forbiddenWords": ["Genius", "Theory of Relativity", "Scientist", "Nobel Prize", "Physics"]
+    },
+    {
+      "word": "Dragon",
+      "forbiddenWords": ["Mythical", "Fire", "Scales", "Fairy Tale", "Knight"]
+    },
+    {
+      "word": "Ferrari",
+      "forbiddenWords": ["Car", "Luxury", "Speed", "Italian", "Race"]
+    },
+    {
+      "word": "Banana",
+      "forbiddenWords": ["Fruit", "Yellow", "Peel", "Monkey", "Healthy"]
+    },
+    {
+      "word": "Dragonfly",
+      "forbiddenWords": ["Insect", "Wings", "Flying", "Aquatic", "Beautiful"]
+    },
+    {
+      "word": "Pirate",
+      "forbiddenWords": ["Ship", "Treasure", "Hook", "Eyepatch", "Captain"]
+    },
+    {
+      "word": "Sunflower",
+      "forbiddenWords": ["Flower", "Yellow", "Tall", "Seeds", "Blossom"]
+    },
+    {
+      "word": "Sushi",
+      "forbiddenWords": ["Japanese", "Raw", "Fish", "Rice", "Rolls"]
+    },
+    {
+      "word": "Parrot",
+      "forbiddenWords": ["Bird", "Colorful", "Talk", "Feathers", "Tropical"]
+    },
+    {
+      "word": "Robot",
+      "forbiddenWords": ["Machine", "Artificial", "Automation", "Technology", "Science"]
+    },
+    {
+      "word": "Banjo",
+      "forbiddenWords": ["Music", "Strings", "Instrument", "Bluegrass", "Strum"]
+    },
+    {
+      "word": "Chameleon",
+      "forbiddenWords": ["Reptile", "Camouflage", "Tongue", "Color-changing", "Lizard"]
+    },
+    {
+      "word": "Pizza",
+      "forbiddenWords": ["Cheese", "Pepperoni", "Slice", "Delivery", "Italian"]
+    },
+    {
+      "word": "Bubblegum",
+      "forbiddenWords": ["Chew", "Pink", "Bubbles", "Sweet", "Gumball"]
+    },
+    {
+      "word": "Unicorn",
+      "forbiddenWords": ["Mythical", "Horn", "Fantasy", "Magical", "Horse"]
+    },
+    {
+      "word": "Sneakers",
+      "forbiddenWords": ["Shoes", "Athletic", "Running", "Footwear", "Comfortable"]
+    },
+    {
+      "word": "Pineapple",
+      "forbiddenWords": ["Fruit", "Tropical", "Sweet", "Spiky", "Ananas"]
+    },
+    {
+      "word": "Squirrel",
+      "forbiddenWords": ["Rodent", "Nuts", "Tail", "Tree", "Cute"]
+    },
+    {
+      "word": "Bubble",
+      "forbiddenWords": ["Float", "Round", "Transparent", "Soap", "Pop"]
+    },
+    {
+      "word": "Pancake",
+      "forbiddenWords": ["Breakfast", "Syrup", "Flat", "Fluffy", "Butter"]
+    },
+    {
+      "word": "Rainbow",
+      "forbiddenWords": ["Colors", "Sky", "Weather", "Spectrum", "Pot of Gold"]
+    },
+    {
+      "word": "Ostrich",
+      "forbiddenWords": ["Bird", "Tall", "Running", "Feathers", "African"]
+    },
+    {
+      "word": "Umbrella",
+      "forbiddenWords": ["Rain", "Protection", "Weather", "Foldable", "Handle"]
+    },
+    {
+      "word": "Cactus",
+      "forbiddenWords": ["Desert", "Spikes", "Plant", "Succulent", "Prickly"]
+    },
+    {
+      "word": "Kangaroo",
+      "forbiddenWords": ["Marsupial", "Australia", "Hopper", "Joey", "Pouch"]
+    },
+    {
+      "word": "Donut",
+      "forbiddenWords": ["Dough", "Sweet", "Hole", "Glazed", "Pastry"]
+    },
+    {
+      "word": "Bubble Wrap",
+      "forbiddenWords": ["Popping", "Packaging", "Bubbles", "Protect", "Shipping"]
+    },
+    {
+      "word": "Giraffe",
+      "forbiddenWords": ["Tall", "Neck", "African", "Spots", "Zoo"]
+    },
+    {
+      "word": "Jellyfish",
+      "forbiddenWords": ["Marine", "Stingers", "Transparent", "Ocean", "Tentacles"]
+    },
+    {
+      "word": "Pirate",
+      "forbiddenWords": ["Ship", "Treasure", "Hook", "Eyepatch", "Captain"]
+    },
+    {
+      "word": "Lighthouse",
+      "forbiddenWords": ["Beacon", "Guidance", "Coast", "Tower", "Nautical"]
+    },
+    {
+      "word": "Penguin",
+      "forbiddenWords": ["Bird", "Antarctica", "Waddle", "Ice", "Tuxedo"]
+    },
+    {
+      "word": "Tornado",
+      "forbiddenWords": ["Twister", "Storm", "Wind", "Destruction", "Cyclone"]
+    }
+  ]
+}
+
+  

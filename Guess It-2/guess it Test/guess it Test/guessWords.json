@@ -1,0 +1,272 @@
+[
+    {
+        "word": "APPLE",
+        "forbiddenWords": ["FRUIT", "TECH", "IPHONE", "ORCHARD", "JUICE"]
+    },
+    {
+        "word": "LION",
+        "forbiddenWords": ["KING", "SAVANNAH", "ROAR", "ZOO", "MUFASA"]
+    },
+    {
+        "word": "HOLLYWOOD",
+        "forbiddenWords": ["MOVIES", "CELEBRITIES", "BOULEVARD", "ENTERTAINMENT", "CALIFORNIA"]
+    },
+    {
+        "word": "BOOK",
+        "forbiddenWords": ["READ", "LIBRARY", "NOVEL", "AUTHOR", "PAGES"]
+    },
+    {
+        "word": "DOG",
+        "forbiddenWords": ["BARK", "PET", "CANINE", "PUPPY", "LEASH"]
+    },
+    {
+        "word": "MATRIX",
+        "forbiddenWords": ["KEANU REEVES", "VIRTUAL REALITY", "RED PILL", "SCI-FI", "NEO"]
+    },
+    {
+        "word": "ELEPHANT",
+        "forbiddenWords": ["MAMMAL", "SAFARI", "TRUNK", "AFRICAN", "BIG EARS"]
+    },
+    {
+        "word": "GUITAR",
+        "forbiddenWords": ["MUSIC", "STRINGS", "INSTRUMENT", "ACOUSTIC", "AMPLIFIER"]
+    },
+    {
+        "word": "SPACE",
+        "forbiddenWords": ["STARS", "ASTRONOMY", "ASTRONAUT", "GALAXY", "UNIVERSE"]
+    },
+    {
+        "word": "MONA LISA",
+        "forbiddenWords": ["LEONARDO DA VINCI", "SMILE", "ART", "PAINTING", "LOUVRE"]
+    },
+    {
+        "word": "PENGUIN",
+        "forbiddenWords": ["BIRD", "ANTARCTICA", "WADDLE", "ICE", "TUXEDO"]
+    },
+    {
+        "word": "BATMAN",
+        "forbiddenWords": ["BRUCE WAYNE", "GOTHAM", "DARK KNIGHT", "COMICS", "JOKER"]
+    },
+    {
+        "word": "COFFEE",
+        "forbiddenWords": ["CAFFEINE", "MUG", "ESPRESSO", "BREW", "STARBUCKS"]
+    },
+    {
+        "word": "EIFFEL TOWER",
+        "forbiddenWords": ["PARIS", "FRANCE", "LANDMARK", "TALL", "IRON"]
+    },
+    {
+        "word": "SOCCER",
+        "forbiddenWords": ["FOOTBALL", "GOAL", "TEAM", "BALL", "WORLD CUP"]
+    },
+    {
+        "word": "MARS",
+        "forbiddenWords": ["RED PLANET", "NASA", "ASTRONOMY", "ROVER", "SPACE"]
+    },
+    {
+        "word": "LEONARDO DICAPRIO",
+        "forbiddenWords": ["ACTOR", "TITANIC", "OSCAR", "INCEPTION", "HOLLYWOOD"]
+    },
+    {
+        "word": "DOLPHIN",
+        "forbiddenWords": ["MARINE", "MAMMAL", "OCEAN", "INTELLIGENT", "SWIM"]
+    },
+    {
+        "word": "HARRY POTTER",
+        "forbiddenWords": ["WIZARD", "HOGWARTS", "MAGIC", "BOOK", "VOLDEMORT"]
+    },
+    {
+        "word": "FOREST",
+        "forbiddenWords": ["TREES", "NATURE", "WOODS", "HIKE", "WILDLIFE"]
+    },
+    {
+        "word": "CHOCOLATE",
+        "forbiddenWords": ["SWEET", "COCOA", "TREAT", "DESSERT", "CANDY"]
+    },
+    {
+        "word": "MICHAEL JACKSON",
+        "forbiddenWords": ["SINGER", "THRILLER", "MOONWALK", "POP", "LEGEND"]
+    },
+    {
+        "word": "TELEVISION",
+        "forbiddenWords": ["TV", "SCREEN", "SHOW", "REMOTE", "CHANNEL"]
+    },
+    {
+        "word": "TIGER",
+        "forbiddenWords": ["WILDCAT", "STRIPES", "SAFARI", "ROAR", "ENDANGERED"]
+    },
+    {
+        "word": "PIANO",
+        "forbiddenWords": ["MUSIC", "KEYS", "INSTRUMENT", "CONCERT", "COMPOSER"]
+    },
+    {
+        "word": "NEW YORK",
+        "forbiddenWords": ["CITY", "EMPIRE STATE BUILDING", "BIG APPLE", "MANHATTAN", "TIMES SQUARE"]
+    },
+    {
+        "word": "SHARK",
+        "forbiddenWords": ["OCEAN", "PREDATOR", "FINS", "JAWS", "BEACH"]
+    },
+    {
+        "word": "MARILYN MONROE",
+        "forbiddenWords": ["ACTRESS", "BLONDE", "ICON", "HOLLYWOOD", "GLAMOUR"]
+    },
+    {
+        "word": "CANDLE",
+        "forbiddenWords": ["FLAME", "WAX", "LIGHT", "SCENT", "HOLDER"]
+    },
+    {
+        "word": "SPIDER-MAN",
+        "forbiddenWords": ["PETER PARKER", "MARVEL", "SUPERHERO", "WEB", "VILLAIN"]
+    },
+    {
+        "word": "PYRAMID",
+        "forbiddenWords": ["EGYPT", "ANCIENT", "DESERT", "PHARAOH", "ARCHAEOLOGY"]
+    },
+    {
+        "word": "DINOSAUR",
+        "forbiddenWords": ["PREHISTORIC", "EXTINCT", "JURASSIC", "FOSSIL", "T-REX"]
+    },
+    {
+        "word": "PICASSO",
+        "forbiddenWords": ["ARTIST", "PAINTING", "CUBISM", "SPANISH", "MASTERPIECE"]
+    },
+    {
+        "word": "MOTORCYCLE",
+        "forbiddenWords": ["BIKE", "RIDE", "TWO-WHEELER", "SPEED", "HELMET"]
+    },
+    {
+        "word": "BANANA",
+        "forbiddenWords": ["FRUIT", "YELLOW", "PEEL", "MONKEY", "HEALTHY"]
+    },
+    {
+        "word": "DRAGON",
+        "forbiddenWords": ["MYTHICAL", "FIRE", "SCALES", "FAIRY TALE", "KNIGHT"]
+    },
+    {
+        "word": "FERRARI",
+        "forbiddenWords": ["CAR", "LUXURY", "SPEED", "ITALIAN", "RACE"]
+    },
+    {
+        "word": "BANANA",
+        "forbiddenWords": ["FRUIT", "YELLOW", "PEEL", "MONKEY", "HEALTHY"]
+    },
+    {
+        "word": "DRAGONFLY",
+        "forbiddenWords": ["INSECT", "WINGS", "FLYING", "AQUATIC", "BEAUTIFUL"]
+    },
+    {
+        "word": "PIRATE",
+        "forbiddenWords": ["SHIP", "TREASURE", "HOOK", "EYEPATCH", "CAPTAIN"]
+    },
+    {
+        "word": "SUNFLOWER",
+        "forbiddenWords": ["FLOWER", "YELLOW", "TALL", "SEEDS", "BLOSSOM"]
+    },
+    {
+        "word": "SUSHI",
+        "forbiddenWords": ["JAPANESE", "RAW", "FISH", "RICE", "ROLLS"]
+    },
+    {
+        "word": "PARROT",
+        "forbiddenWords": ["BIRD", "COLORFUL", "TALK", "FEATHERS", "TROPICAL"]
+    },
+    {
+        "word": "ROBOT",
+        "forbiddenWords": ["MACHINE", "ARTIFICIAL", "AUTOMATION", "TECHNOLOGY", "SCIENCE"]
+    },
+    {
+        "word": "BANJO",
+        "forbiddenWords": ["MUSIC", "STRINGS", "INSTRUMENT", "BLUEGRASS", "STRUM"]
+    },
+    {
+        "word": "CHAMELEON",
+        "forbiddenWords": ["REPTILE", "CAMOUFLAGE", "TONGUE", "COLOR-CHANGING", "LIZARD"]
+    },
+    {
+        "word": "PIZZA",
+        "forbiddenWords": ["CHEESE", "PEPPERONI", "SLICE", "DELIVERY", "ITALIAN"]
+    },
+    {
+        "word": "BUBBLEGUM",
+        "forbiddenWords": ["CHEW", "PINK", "BUBBLES", "SWEET", "GUMBALL"]
+    },
+    {
+        "word": "UNICORN",
+        "forbiddenWords": ["MYTHICAL", "HORN", "FANTASY", "MAGICAL", "HORSE"]
+    },
+    {
+        "word": "SNEAKERS",
+        "forbiddenWords": ["SHOES", "ATHLETIC", "RUNNING", "FOOTWEAR", "COMFORTABLE"]
+    },
+    {
+        "word": "PINEAPPLE",
+        "forbiddenWords": ["FRUIT", "TROPICAL", "SWEET", "SPIKY", "ANANAS"]
+    },
+    {
+        "word": "SQUIRREL",
+        "forbiddenWords": ["RODENT", "NUTS", "TAIL", "TREE", "CUTE"]
+    },
+    {
+        "word": "BUBBLE",
+        "forbiddenWords": ["FLOAT", "ROUND", "TRANSPARENT", "SOAP", "POP"]
+    },
+    {
+        "word": "PANCAKE",
+        "forbiddenWords": ["BREAKFAST", "SYRUP", "FLAT", "FLUFFY", "BUTTER"]
+    },
+    {
+        "word": "RAINBOW",
+        "forbiddenWords": ["COLORS", "SKY", "WEATHER", "SPECTRUM", "POT OF GOLD"]
+    },
+    {
+        "word": "OSTRICH",
+        "forbiddenWords": ["BIRD", "TALL", "RUNNING", "FEATHERS", "AFRICAN"]
+    },
+    {
+        "word": "UMBRELLA",
+        "forbiddenWords": ["RAIN", "PROTECTION", "WEATHER", "FOLDABLE", "HANDLE"]
+    },
+    {
+        "word": "CACTUS",
+        "forbiddenWords": ["DESERT", "SPIKES", "PLANT", "SUCCULENT", "PRICKLY"]
+    },
+    {
+        "word": "KANGAROO",
+        "forbiddenWords": ["MARSUPIAL", "AUSTRALIA", "HOPPER", "JOEY", "POUCH"]
+    },
+    {
+        "word": "DONUT",
+        "forbiddenWords": ["DOUGH", "SWEET", "HOLE", "GLAZED", "PASTRY"]
+    },
+    {
+        "word": "BUBBLE WRAP",
+        "forbiddenWords": ["POPPING", "PACKAGING", "BUBBLES", "PROTECT", "SHIPPING"]
+    },
+    {
+        "word": "GIRAFFE",
+        "forbiddenWords": ["TALL", "NECK", "AFRICAN", "SPOTS", "ZOO"]
+    },
+    {
+        "word": "JELLYFISH",
+        "forbiddenWords": ["MARINE", "STINGERS", "TRANSPARENT", "OCEAN", "TENTACLES"]
+    },
+    {
+        "word": "PIRATE",
+        "forbiddenWords": ["SHIP", "TREASURE", "HOOK", "EYEPATCH", "CAPTAIN"]
+    },
+    {
+        "word": "LIGHTHOUSE",
+        "forbiddenWords": ["BEACON", "GUIDANCE", "COAST", "TOWER", "NAUTICAL"]
+    },
+    {
+        "word": "PENGUIN",
+        "forbiddenWords": ["BIRD", "ANTARCTICA", "WADDLE", "ICE", "TUXEDO"]
+    },
+    {
+        "word": "TORNADO",
+        "forbiddenWords": ["TWISTER", "STORM", "WIND", "DESTRUCTION", "CYCLONE"]
+    }
+]
+
+  
